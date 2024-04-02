@@ -1,0 +1,1651 @@
+{
+  "type": "umap",
+  "properties": {
+    "zoom": 15,
+    "easing": false,
+    "licence": "",
+    "miniMap": false,
+    "overlay": {},
+    "slideshow": {},
+    "tilelayer": {
+      "tms": false,
+      "name": "OSM OpenTopoMap",
+      "maxZoom": 20,
+      "minZoom": 1,
+      "attribution": "Kartendaten: © [[https://openstreetmap.org/copyright|OpenStreetMap]]-Mitwirkende, [[http://viewfinderpanoramas.org/|SRTM]] | Kartendarstellung: © [[https://opentopomap.org/|OpenTopoMap]] ([[https://creativecommons.org/licenses/by-sa/3.0/|CC-BY-SA]])",
+      "url_template": "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+    },
+    "captionBar": false,
+    "description": "",
+    "limitBounds": {},
+    "moreControl": true,
+    "zoomControl": true,
+    "captionMenus": true,
+    "embedControl": true,
+    "scaleControl": true,
+    "searchControl": true,
+    "scrollWheelZoom": true,
+    "datalayersControl": true,
+    "fullscreenControl": true,
+    "displayPopupFooter": false,
+    "permanentCreditBackground": true,
+    "name": "Xtag"
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "description": {
+              "@type": "html",
+              "value": "descrizione: <br>osm_id: 451906918<br>highway: path<br>z_order: 0<br>other_tags: \"foot\"=&gt;\"yes\",\"sac_scale\"=&gt;\"mountain_hiking\",\"trail_visibility\"=&gt;\"intermediate\""
+            },
+            "styleUrl": "#line-FF0000-1000",
+            "stroke-opacity": 1,
+            "stroke": "#ff0000",
+            "stroke-width": 1,
+            "descrizione": "",
+            "osm_id": "451906918",
+            "highway": "path",
+            "z_order": "0",
+            "other_tags": "\"foot\"=&gt;\"yes\",\"sac_scale\"=&gt;\"mountain_hiking\",\"trail_visibility\"=&gt;\"intermediate\"",
+            "ulsp_type": "Percorso",
+            "Titolo": "",
+            "Provincia": "",
+            "Comune": "",
+            "Punto d'accesso": "",
+            "Foto accesso": "",
+            "Descrizione": "",
+            "Difficoltà": "",
+            "Lunghezza": "",
+            "Durata": "",
+            "Dislivello in salita": "",
+            "Dislivello in discesa": "",
+            "Segnaletica": "",
+            "Copertura GPS": "",
+            "Copertura rete mobile": "",
+            "Strumento": "",
+            "Data": "",
+            "Ora": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                10.700991,
+                44.028032,
+                0
+              ],
+              [
+                10.701076,
+                44.027997,
+                0
+              ],
+              [
+                10.701154,
+                44.027935,
+                0
+              ],
+              [
+                10.701294,
+                44.027889,
+                0
+              ],
+              [
+                10.701424,
+                44.027815,
+                0
+              ],
+              [
+                10.701534,
+                44.027766,
+                0
+              ],
+              [
+                10.701673,
+                44.027684,
+                0
+              ],
+              [
+                10.70182,
+                44.027647,
+                0
+              ],
+              [
+                10.701926,
+                44.027585,
+                0
+              ],
+              [
+                10.701988,
+                44.027536,
+                0
+              ],
+              [
+                10.702094,
+                44.027481,
+                0
+              ],
+              [
+                10.702173,
+                44.027433,
+                0
+              ],
+              [
+                10.702192,
+                44.027372,
+                0
+              ],
+              [
+                10.702245,
+                44.027315,
+                0
+              ],
+              [
+                10.702356,
+                44.027278,
+                0
+              ],
+              [
+                10.702493,
+                44.02724,
+                0
+              ],
+              [
+                10.702549,
+                44.027206,
+                0
+              ],
+              [
+                10.70258,
+                44.027162,
+                0
+              ],
+              [
+                10.702643,
+                44.027151,
+                0
+              ],
+              [
+                10.702701,
+                44.027108,
+                0
+              ],
+              [
+                10.702757,
+                44.027068,
+                0
+              ],
+              [
+                10.702818,
+                44.027057,
+                0
+              ],
+              [
+                10.702946,
+                44.026978,
+                0
+              ],
+              [
+                10.703092,
+                44.026895,
+                0
+              ],
+              [
+                10.703322,
+                44.026864,
+                0
+              ],
+              [
+                10.703399,
+                44.026845,
+                0
+              ],
+              [
+                10.70354,
+                44.026875,
+                0
+              ],
+              [
+                10.703649,
+                44.026847,
+                0
+              ],
+              [
+                10.703773,
+                44.026822,
+                0
+              ],
+              [
+                10.703911,
+                44.026773,
+                0
+              ],
+              [
+                10.704074,
+                44.026738,
+                0
+              ],
+              [
+                10.704304,
+                44.026625,
+                0
+              ],
+              [
+                10.704362,
+                44.02655,
+                0
+              ],
+              [
+                10.704399,
+                44.026465,
+                0
+              ],
+              [
+                10.704452,
+                44.026356,
+                0
+              ],
+              [
+                10.704482,
+                44.026282,
+                0
+              ],
+              [
+                10.70458,
+                44.026095,
+                0
+              ],
+              [
+                10.704594,
+                44.026011,
+                0
+              ],
+              [
+                10.704609,
+                44.025898,
+                0
+              ],
+              [
+                10.704638,
+                44.025694,
+                0
+              ],
+              [
+                10.704739,
+                44.025579,
+                0
+              ],
+              [
+                10.704868,
+                44.025373,
+                0
+              ],
+              [
+                10.704884,
+                44.025298,
+                0
+              ],
+              [
+                10.704926,
+                44.025253,
+                0
+              ],
+              [
+                10.705015,
+                44.025128,
+                0
+              ],
+              [
+                10.70511,
+                44.025017,
+                0
+              ],
+              [
+                10.705216,
+                44.024942,
+                0
+              ],
+              [
+                10.705265,
+                44.024868,
+                0
+              ],
+              [
+                10.705275,
+                44.02474,
+                0
+              ],
+              [
+                10.70536,
+                44.024521,
+                0
+              ],
+              [
+                10.705391,
+                44.024456,
+                0
+              ],
+              [
+                10.705399,
+                44.024368,
+                0
+              ],
+              [
+                10.705378,
+                44.024278,
+                0
+              ],
+              [
+                10.705356,
+                44.024169,
+                0
+              ],
+              [
+                10.70534,
+                44.024077,
+                0
+              ],
+              [
+                10.705313,
+                44.023969,
+                0
+              ],
+              [
+                10.705315,
+                44.023867,
+                0
+              ],
+              [
+                10.705311,
+                44.023789,
+                0
+              ],
+              [
+                10.705279,
+                44.023677,
+                0
+              ],
+              [
+                10.705248,
+                44.023563,
+                0
+              ],
+              [
+                10.705238,
+                44.02352,
+                0
+              ],
+              [
+                10.70522,
+                44.023465,
+                0
+              ],
+              [
+                10.705194,
+                44.023378,
+                0
+              ],
+              [
+                10.705211,
+                44.02332,
+                0
+              ],
+              [
+                10.705276,
+                44.023247,
+                0
+              ]
+            ]
+          },
+          "id": "Q1ODg"
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": {
+              "@type": "html",
+              "value": "descrizione: <br>osm_id: 413990220<br>highway: path<br>z_order: 0<br>other_tags: \"bicycle\"=&gt;\"yes\",\"foot\"=&gt;\"yes\",\"width\"=&gt;\"1\""
+            },
+            "styleUrl": "#line-FF0000-1000",
+            "stroke-opacity": 1,
+            "stroke": "#ff0000",
+            "stroke-width": 1,
+            "descrizione": "",
+            "osm_id": "413990220",
+            "highway": "path",
+            "z_order": "0",
+            "other_tags": "\"bicycle\"=&gt;\"yes\",\"foot\"=&gt;\"yes\",\"width\"=&gt;\"1\"",
+            "ulsp_type": "Percorso",
+            "Titolo": "",
+            "Provincia": "",
+            "Comune": "",
+            "Punto d'accesso": "",
+            "Foto accesso": "",
+            "Descrizione": "",
+            "Difficoltà": "",
+            "Lunghezza": "",
+            "Durata": "",
+            "Dislivello in salita": "",
+            "Dislivello in discesa": "",
+            "Segnaletica": "",
+            "Copertura GPS": "",
+            "Copertura rete mobile": "",
+            "Strumento": "",
+            "Data": "",
+            "Ora": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                10.716871,
+                44.033591,
+                0
+              ],
+              [
+                10.717069,
+                44.033575,
+                0
+              ],
+              [
+                10.717153,
+                44.033601,
+                0
+              ],
+              [
+                10.717225,
+                44.033664,
+                0
+              ],
+              [
+                10.717295,
+                44.033706,
+                0
+              ],
+              [
+                10.717373,
+                44.033697,
+                0
+              ],
+              [
+                10.717458,
+                44.033662,
+                0
+              ],
+              [
+                10.717562,
+                44.033658,
+                0
+              ],
+              [
+                10.717631,
+                44.033655,
+                0
+              ],
+              [
+                10.717681,
+                44.033708,
+                0
+              ],
+              [
+                10.717737,
+                44.033758,
+                0
+              ],
+              [
+                10.717751,
+                44.033819,
+                0
+              ],
+              [
+                10.717811,
+                44.033862,
+                0
+              ],
+              [
+                10.717902,
+                44.033839,
+                0
+              ],
+              [
+                10.717975,
+                44.033806,
+                0
+              ],
+              [
+                10.718061,
+                44.033752,
+                0
+              ],
+              [
+                10.718133,
+                44.033683,
+                0
+              ],
+              [
+                10.718223,
+                44.033614,
+                0
+              ],
+              [
+                10.71836,
+                44.033553,
+                0
+              ],
+              [
+                10.718463,
+                44.033544,
+                0
+              ],
+              [
+                10.718537,
+                44.033519,
+                0
+              ],
+              [
+                10.718616,
+                44.033457,
+                0
+              ],
+              [
+                10.7187,
+                44.033402,
+                0
+              ],
+              [
+                10.718732,
+                44.033393,
+                0
+              ],
+              [
+                10.718787,
+                44.033334,
+                0
+              ],
+              [
+                10.718872,
+                44.033324,
+                0
+              ],
+              [
+                10.718889,
+                44.033309,
+                0
+              ],
+              [
+                10.718891,
+                44.033279,
+                0
+              ],
+              [
+                10.718982,
+                44.03325,
+                0
+              ],
+              [
+                10.719022,
+                44.033241,
+                0
+              ],
+              [
+                10.719032,
+                44.033261,
+                0
+              ],
+              [
+                10.71903,
+                44.033284,
+                0
+              ],
+              [
+                10.719053,
+                44.033309,
+                0
+              ],
+              [
+                10.719105,
+                44.033311,
+                0
+              ],
+              [
+                10.719166,
+                44.033299,
+                0
+              ],
+              [
+                10.71923,
+                44.033298,
+                0
+              ],
+              [
+                10.719278,
+                44.033319,
+                0
+              ],
+              [
+                10.719294,
+                44.033354,
+                0
+              ],
+              [
+                10.719278,
+                44.033406,
+                0
+              ],
+              [
+                10.719268,
+                44.033448,
+                0
+              ],
+              [
+                10.719306,
+                44.033468,
+                0
+              ],
+              [
+                10.719387,
+                44.033507,
+                0
+              ],
+              [
+                10.719489,
+                44.033548,
+                0
+              ],
+              [
+                10.719635,
+                44.033632,
+                0
+              ],
+              [
+                10.719748,
+                44.033721,
+                0
+              ],
+              [
+                10.719821,
+                44.033833,
+                0
+              ],
+              [
+                10.71982,
+                44.033911,
+                0
+              ],
+              [
+                10.719848,
+                44.033971,
+                0
+              ],
+              [
+                10.71982,
+                44.034041,
+                0
+              ],
+              [
+                10.71965,
+                44.034101,
+                0
+              ],
+              [
+                10.719541,
+                44.034181,
+                0
+              ],
+              [
+                10.719463,
+                44.034296,
+                0
+              ],
+              [
+                10.719395,
+                44.034411,
+                0
+              ],
+              [
+                10.719293,
+                44.034481,
+                0
+              ],
+              [
+                10.719219,
+                44.034576,
+                0
+              ],
+              [
+                10.719141,
+                44.034729,
+                0
+              ],
+              [
+                10.719104,
+                44.034826,
+                0
+              ],
+              [
+                10.719141,
+                44.034872,
+                0
+              ],
+              [
+                10.7192,
+                44.034917,
+                0
+              ],
+              [
+                10.719302,
+                44.034948,
+                0
+              ],
+              [
+                10.719461,
+                44.034967,
+                0
+              ],
+              [
+                10.719601,
+                44.034978,
+                0
+              ],
+              [
+                10.719758,
+                44.034974,
+                0
+              ],
+              [
+                10.719842,
+                44.034953,
+                0
+              ],
+              [
+                10.719961,
+                44.034982,
+                0
+              ],
+              [
+                10.720036,
+                44.034951,
+                0
+              ],
+              [
+                10.720285,
+                44.034886,
+                0
+              ],
+              [
+                10.720357,
+                44.034856,
+                0
+              ],
+              [
+                10.720421,
+                44.03487,
+                0
+              ],
+              [
+                10.720504,
+                44.034929,
+                0
+              ],
+              [
+                10.720516,
+                44.035009,
+                0
+              ],
+              [
+                10.720512,
+                44.035055,
+                0
+              ],
+              [
+                10.720578,
+                44.035112,
+                0
+              ],
+              [
+                10.720599,
+                44.035177,
+                0
+              ],
+              [
+                10.72069,
+                44.035206,
+                0
+              ],
+              [
+                10.720885,
+                44.035217,
+                0
+              ],
+              [
+                10.721018,
+                44.035217,
+                0
+              ]
+            ]
+          },
+          "id": "I5MzE"
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": {
+              "@type": "html",
+              "value": "descrizione: <br>osm_id: 149958566<br>highway: path<br>z_order: 0<br>other_tags: \"bicycle\"=&gt;\"no\",\"foot\"=&gt;\"yes\",\"horse\"=&gt;\"no\",\"sac_scale\"=&gt;\"demanding_mountain_hiking\",\"trail_visibility\"=&gt;\"intermediate\",\"width\"=&gt;\"0.5\""
+            },
+            "styleUrl": "#line-FF0000-1000",
+            "stroke-opacity": 1,
+            "stroke": "#ff0000",
+            "stroke-width": 1,
+            "descrizione": "",
+            "osm_id": "149958566",
+            "highway": "path",
+            "z_order": "0",
+            "other_tags": "\"bicycle\"=&gt;\"no\",\"foot\"=&gt;\"yes\",\"horse\"=&gt;\"no\",\"sac_scale\"=&gt;\"demanding_mountain_hiking\",\"trail_visibility\"=&gt;\"intermediate\",\"width\"=&gt;\"0.5\"",
+            "ulsp_type": "Percorso",
+            "Titolo": "",
+            "Provincia": "",
+            "Comune": "",
+            "Punto d'accesso": "",
+            "Foto accesso": "",
+            "Descrizione": "",
+            "Difficoltà": "",
+            "Lunghezza": "",
+            "Durata": "",
+            "Dislivello in salita": "",
+            "Dislivello in discesa": "",
+            "Segnaletica": "",
+            "Copertura GPS": "",
+            "Copertura rete mobile": "",
+            "Strumento": "",
+            "Data": "",
+            "Ora": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                10.705276,
+                44.023247,
+                0
+              ],
+              [
+                10.705318,
+                44.023179,
+                0
+              ],
+              [
+                10.705331,
+                44.023102,
+                0
+              ],
+              [
+                10.705362,
+                44.023003,
+                0
+              ],
+              [
+                10.705403,
+                44.02295,
+                0
+              ],
+              [
+                10.70546,
+                44.02289,
+                0
+              ],
+              [
+                10.705546,
+                44.02282,
+                0
+              ],
+              [
+                10.705642,
+                44.022708,
+                0
+              ],
+              [
+                10.705702,
+                44.022581,
+                0
+              ],
+              [
+                10.705757,
+                44.022511,
+                0
+              ],
+              [
+                10.705822,
+                44.022422,
+                0
+              ],
+              [
+                10.705879,
+                44.022337,
+                0
+              ],
+              [
+                10.705895,
+                44.022245,
+                0
+              ],
+              [
+                10.705892,
+                44.022073,
+                0
+              ],
+              [
+                10.705948,
+                44.021998,
+                0
+              ],
+              [
+                10.705994,
+                44.02194,
+                0
+              ],
+              [
+                10.706043,
+                44.021882,
+                0
+              ],
+              [
+                10.706102,
+                44.021811,
+                0
+              ],
+              [
+                10.706116,
+                44.021746,
+                0
+              ],
+              [
+                10.706117,
+                44.021689,
+                0
+              ],
+              [
+                10.706116,
+                44.02165,
+                0
+              ],
+              [
+                10.706127,
+                44.021618,
+                0
+              ],
+              [
+                10.706171,
+                44.021587,
+                0
+              ],
+              [
+                10.706193,
+                44.021557,
+                0
+              ],
+              [
+                10.706195,
+                44.02138,
+                0
+              ],
+              [
+                10.706213,
+                44.021248,
+                0
+              ],
+              [
+                10.706225,
+                44.021169,
+                0
+              ],
+              [
+                10.706209,
+                44.021052,
+                0
+              ],
+              [
+                10.706248,
+                44.020989,
+                0
+              ],
+              [
+                10.70627,
+                44.020821,
+                0
+              ],
+              [
+                10.706244,
+                44.02074,
+                0
+              ],
+              [
+                10.706193,
+                44.020739,
+                0
+              ],
+              [
+                10.706243,
+                44.020677,
+                0
+              ],
+              [
+                10.706265,
+                44.020613,
+                0
+              ],
+              [
+                10.706269,
+                44.020536,
+                0
+              ],
+              [
+                10.706265,
+                44.020468,
+                0
+              ],
+              [
+                10.706243,
+                44.020418,
+                0
+              ],
+              [
+                10.705994,
+                44.020414,
+                0
+              ],
+              [
+                10.705908,
+                44.020402,
+                0
+              ],
+              [
+                10.705807,
+                44.020338,
+                0
+              ],
+              [
+                10.705699,
+                44.020322,
+                0
+              ],
+              [
+                10.705598,
+                44.020305,
+                0
+              ],
+              [
+                10.705464,
+                44.020294,
+                0
+              ],
+              [
+                10.705337,
+                44.020256,
+                0
+              ],
+              [
+                10.705328,
+                44.020235,
+                0
+              ],
+              [
+                10.7053,
+                44.020197,
+                0
+              ],
+              [
+                10.70528,
+                44.020164,
+                0
+              ],
+              [
+                10.705208,
+                44.020106,
+                0
+              ],
+              [
+                10.705169,
+                44.020049,
+                0
+              ],
+              [
+                10.70512,
+                44.019975,
+                0
+              ]
+            ]
+          },
+          "id": "Y5MjQ"
+        }
+      ],
+      "_umap_options": {
+        "name": "Percorso",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Inizio di Escursione verso Cocciglia",
+            "description": "[object Object]",
+            "styleUrl": "#icon-1899-0288D1",
+            "label-scale": 0,
+            "icon-opacity": 1,
+            "icon-color": "#0288d1",
+            "icon-scale": 1,
+            "icon-offset": [
+              32,
+              64
+            ],
+            "icon-offset-units": [
+              "pixels",
+              "insetPixels"
+            ],
+            "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+            "descrizione": "[object Object]",
+            "Sito": "",
+            "Provincia": "",
+            "Comune": "",
+            "Toponimo": "",
+            "Microtoponimo": "",
+            "Strade d'accesso": "",
+            "Altri elementi di localizzazione": "",
+            "Tipologia sito": "",
+            "Definizione sito": "",
+            "Descrizione": "",
+            "Cronologia iniziale": "",
+            "Cronologia finale": "",
+            "Reperti Ceramici": "",
+            "Reperti geologici": "",
+            "Reperti organici": "",
+            "Altri manufatti": "",
+            "Dimensioni": "",
+            "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
+            "Accessibilità": "",
+            "Copertura rete mobile": "",
+            "Copertura GPS": "",
+            "Note": "",
+            "Altitudine m": "",
+            "Latitudine": "",
+            "Longitudine": "",
+            "Data": "",
+            "Bibliografia": "",
+            "cmt": "",
+            "desc": "",
+            "src": "",
+            "link1_href": "",
+            "link1_text": "",
+            "link1_type": "",
+            "link2_href": "",
+            "link2_text": "",
+            "link2_type": "",
+            "number": "",
+            "type": "",
+            "locus_activity": "",
+            "name_2": "",
+            "cmt_2": "",
+            "desc_2": "",
+            "src_2": "",
+            "link1_href_2": "",
+            "link1_text_2": "",
+            "link1_type_2": "",
+            "ulsp_type": "POI",
+            "Titolo": "Prova 3",
+            "Foto": "",
+            "Altitudine": "",
+            "Autore": "",
+            "Strumento": "",
+            "Ora": "",
+            "Tags": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.669211,
+              44.038931,
+              435.66
+            ]
+          },
+          "id": "I3NDU"
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Inizio di Escursione verso Cocciglia",
+            "description": "[object Object]",
+            "styleUrl": "#icon-1899-0288D1",
+            "label-scale": 0,
+            "icon-opacity": 1,
+            "icon-color": "#0288d1",
+            "icon-scale": 1,
+            "icon-offset": [
+              32,
+              64
+            ],
+            "icon-offset-units": [
+              "pixels",
+              "insetPixels"
+            ],
+            "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+            "descrizione": "[object Object]",
+            "Sito": "",
+            "Provincia": "",
+            "Comune": "",
+            "Toponimo": "",
+            "Microtoponimo": "",
+            "Strade d'accesso": "",
+            "Altri elementi di localizzazione": "",
+            "Tipologia sito": "",
+            "Definizione sito": "",
+            "Descrizione": "",
+            "Cronologia iniziale": "",
+            "Cronologia finale": "",
+            "Reperti Ceramici": "",
+            "Reperti geologici": "",
+            "Reperti organici": "",
+            "Altri manufatti": "",
+            "Dimensioni": "",
+            "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
+            "Accessibilità": "",
+            "Copertura rete mobile": "",
+            "Copertura GPS": "",
+            "Note": "",
+            "Altitudine m": "",
+            "Latitudine": "",
+            "Longitudine": "",
+            "Data": "",
+            "Bibliografia": "",
+            "cmt": "",
+            "desc": "",
+            "src": "",
+            "link1_href": "",
+            "link1_text": "",
+            "link1_type": "",
+            "link2_href": "",
+            "link2_text": "",
+            "link2_type": "",
+            "number": "",
+            "type": "",
+            "locus_activity": "",
+            "name_2": "",
+            "cmt_2": "",
+            "desc_2": "",
+            "src_2": "",
+            "link1_href_2": "",
+            "link1_text_2": "",
+            "link1_type_2": "",
+            "ulsp_type": "POI",
+            "Titolo": "Prova 2",
+            "Foto": "",
+            "Altitudine": "",
+            "Autore": "",
+            "Strumento": "",
+            "Ora": "",
+            "Tags": [
+              "Albergo"
+            ],
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.669211,
+              44.038931,
+              435.66
+            ]
+          },
+          "id": "Q5NDk"
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Inizio di Escursione verso Cocciglia",
+            "description": "[object Object]",
+            "styleUrl": "#icon-1899-0288D1",
+            "label-scale": 0,
+            "icon-opacity": 1,
+            "icon-color": "#0288d1",
+            "icon-scale": 1,
+            "icon-offset": [
+              32,
+              64
+            ],
+            "icon-offset-units": [
+              "pixels",
+              "insetPixels"
+            ],
+            "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+            "descrizione": "[object Object]",
+            "Sito": "",
+            "Provincia": "",
+            "Comune": "",
+            "Toponimo": "",
+            "Microtoponimo": "",
+            "Strade d'accesso": "",
+            "Altri elementi di localizzazione": "",
+            "Tipologia sito": "",
+            "Definizione sito": "",
+            "Descrizione": "",
+            "Cronologia iniziale": "",
+            "Cronologia finale": "",
+            "Reperti Ceramici": "",
+            "Reperti geologici": "",
+            "Reperti organici": "",
+            "Altri manufatti": "",
+            "Dimensioni": "",
+            "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
+            "Accessibilità": "",
+            "Copertura rete mobile": "",
+            "Copertura GPS": "",
+            "Note": "",
+            "Altitudine m": "",
+            "Latitudine": "",
+            "Longitudine": "",
+            "Data": "",
+            "Bibliografia": "",
+            "cmt": "",
+            "desc": "",
+            "src": "",
+            "link1_href": "",
+            "link1_text": "",
+            "link1_type": "",
+            "link2_href": "",
+            "link2_text": "",
+            "link2_type": "",
+            "number": "",
+            "type": "",
+            "locus_activity": "",
+            "name_2": "",
+            "cmt_2": "",
+            "desc_2": "",
+            "src_2": "",
+            "link1_href_2": "",
+            "link1_text_2": "",
+            "link1_type_2": "",
+            "ulsp_type": "POI",
+            "Titolo": "Prova 1",
+            "Foto": "",
+            "Altitudine": "",
+            "Autore": "",
+            "Strumento": "",
+            "Ora": "",
+            "Tags": [
+              "Albergo",
+              "Ristorante",
+              "Bar"
+            ],
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.669211,
+              44.038931,
+              435.66
+            ]
+          },
+          "id": "kxMzk"
+        }
+      ],
+      "_umap_options": {
+        "name": "POI",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione} \n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "QRtag",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n \n{Testo} \n \nFID: {fid}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "",
+            "styleUrl": "#icon-1899-0288D1",
+            "label-scale": 0,
+            "icon-opacity": 1,
+            "icon-color": "#0288d1",
+            "icon-scale": 1,
+            "icon-offset": [
+              32,
+              64
+            ],
+            "icon-offset-units": [
+              "pixels",
+              "insetPixels"
+            ],
+            "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+            "descrizione": "",
+            "Sito": "8",
+            "Provincia": "Lucca",
+            "Comune": "Bagni di Lucca",
+            "Toponimo": "Casoli, Sant'Andrea",
+            "Microtoponimo": "Metato",
+            "Strade d'accesso": "sentiero CAI 388 da Casoli",
+            "Altri elementi di localizzazione": "a nord-ovest del lago di Casoli",
+            "Tipologia sito": "insediamento produttivo",
+            "Definizione sito": "complesso architettonico composto da più corpi di fabbrica",
+            "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
+            "Cronologia iniziale": "Età contemporanea",
+            "Cronologia finale": "Età sub-attuale",
+            "Reperti Ceramici": "No",
+            "Reperti geologici": "No",
+            "Reperti organici": "No",
+            "Altri manufatti": "",
+            "Dimensioni": "",
+            "Sicurezza: descrizione delle condizioni di fruizione del sito": "recintato perché in proprietà privata, ma ben visibile dal sentiero",
+            "Accessibilità": "Non accessibile",
+            "Copertura rete mobile": "Completa",
+            "Copertura GPS": "Completa",
+            "Note": "",
+            "Altitudine m": "569",
+            "Latitudine": "44.03591",
+            "Longitudine": "10.67763",
+            "Data": "30/04/2023",
+            "Bibliografia": "",
+            "name": "",
+            "cmt": "",
+            "desc": "",
+            "src": "",
+            "link1_href": "",
+            "link1_text": "",
+            "link1_type": "",
+            "link2_href": "",
+            "link2_text": "",
+            "link2_type": "",
+            "number": "",
+            "type": "",
+            "locus_activity": "",
+            "name_2": "",
+            "cmt_2": "",
+            "desc_2": "",
+            "src_2": "",
+            "link1_href_2": "",
+            "link1_text_2": "",
+            "link1_type_2": "",
+            "ulsp_type": "Sito",
+            "Titolo": "",
+            "Altitudine": "",
+            "Definizione": "",
+            "Reperti ceramici": "",
+            "Sicurezza": "",
+            "Foto": "",
+            "Link": "",
+            "Strumento": "",
+            "Ora": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.677623,
+              44.035917,
+              0
+            ]
+          },
+          "id": "IyNzY"
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "",
+            "styleUrl": "#icon-1899-0288D1",
+            "label-scale": 0,
+            "icon-opacity": 1,
+            "icon-color": "#0288d1",
+            "icon-scale": 1,
+            "icon-offset": [
+              32,
+              64
+            ],
+            "icon-offset-units": [
+              "pixels",
+              "insetPixels"
+            ],
+            "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+            "descrizione": "",
+            "Sito": "9",
+            "Provincia": "Lucca",
+            "Comune": "Bagni di Lucca",
+            "Toponimo": "Casoli, Sant'Andrea",
+            "Microtoponimo": "Lago di Casoli",
+            "Strade d'accesso": "sentiero CAI 388 da Casoli",
+            "Altri elementi di localizzazione": "",
+            "Tipologia sito": "frequentazione antropica",
+            "Definizione sito": "area di dispersione di materiale",
+            "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
+            "Cronologia iniziale": "Età romana imperiale",
+            "Cronologia finale": "Età contemporanea",
+            "Reperti Ceramici": "Si",
+            "Reperti geologici": "No",
+            "Reperti organici": "No",
+            "Altri manufatti": "",
+            "Dimensioni": "",
+            "Sicurezza: descrizione delle condizioni di fruizione del sito": "buona fruibilità",
+            "Accessibilità": "Facile",
+            "Copertura rete mobile": "Completa",
+            "Copertura GPS": "Completa",
+            "Note": "",
+            "Altitudine m": "550",
+            "Latitudine": "44.03468",
+            "Longitudine": "10.67766",
+            "Data": "30/04/2023",
+            "Bibliografia": "",
+            "name": "",
+            "cmt": "",
+            "desc": "",
+            "src": "",
+            "link1_href": "",
+            "link1_text": "",
+            "link1_type": "",
+            "link2_href": "",
+            "link2_text": "",
+            "link2_type": "",
+            "number": "",
+            "type": "",
+            "locus_activity": "",
+            "name_2": "",
+            "cmt_2": "",
+            "desc_2": "",
+            "src_2": "",
+            "link1_href_2": "",
+            "link1_text_2": "",
+            "link1_type_2": "",
+            "ulsp_type": "Sito",
+            "Titolo": "",
+            "Altitudine": "",
+            "Definizione": "",
+            "Reperti ceramici": "",
+            "Sicurezza": "",
+            "Foto": "",
+            "Link": "",
+            "Strumento": "",
+            "Ora": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.677648,
+              44.034686,
+              0
+            ]
+          },
+          "id": "U0MzU"
+        }
+      ],
+      "_umap_options": {
+        "name": "Sito",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "DarkBlue",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} ( [[https://sites.google.com/view/prin-underlandscape/{Link}|link]])\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[https://sites.google.com/view/prin-underlandscape/home-page/bibliografie/{Sito}|bibliografia]]"
+      }
+    }
+  ],
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.669211,
+      44.038931,
+      435.66
+    ]
+  }
+}
