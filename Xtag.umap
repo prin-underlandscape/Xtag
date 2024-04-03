@@ -92,7 +92,7 @@
             "link1_text_2": "",
             "link1_type_2": "",
             "ulsp_type": "Percorso",
-            "Titolo": "",
+            "Titolo": "Percorso 1",
             "Punto d'accesso": "",
             "Foto accesso": "",
             "Difficoltà": "",
@@ -926,7 +926,7 @@
             "link1_text_2": "",
             "link1_type_2": "",
             "ulsp_type": "Percorso",
-            "Titolo": "",
+            "Titolo": "Percorso 2",
             "Punto d'accesso": "",
             "Foto accesso": "",
             "Difficoltà": "",
@@ -1195,7 +1195,7 @@
             "link1_text_2": "",
             "link1_type_2": "",
             "ulsp_type": "Percorso",
-            "Titolo": "",
+            "Titolo": "Percorso 3",
             "Punto d'accesso": "",
             "Foto accesso": "",
             "Difficoltà": "",
@@ -1350,10 +1350,14 @@
             "Autore": "",
             "Strumento": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": "",
+            "Tag primario": "Parcheggio",
+            "Altri tag": [
+              "Bar"
+            ],
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/parking-car.svg"
             }
           },
           "geometry": {
@@ -1439,10 +1443,14 @@
             "Autore": "",
             "Strumento": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": "",
+            "Tag primario": "Fermata Bus",
+            "Altri tag": [
+              "Segnalazione"
+            ],
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/bus-stop.svg"
             }
           },
           "geometry": {
@@ -1533,15 +1541,16 @@
               "Ristorante",
               "Bar"
             ],
-            "Tag primario": "Bar",
+            "Tag primario": "Ristorante",
             "Altri tag": [
-              "Ristorante",
-              "Attrazione"
+              "Albergo",
+              "Bar",
+              "Parcheggio"
             ],
             "_umap_options": {
               "popupTemplate": "Default",
-              "iconUrl": "/uploads/pictogram/hotel.svg",
-              "iconClass": "Drop"
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/restaurant.svg"
             }
           },
           "geometry": {
@@ -1652,7 +1661,7 @@
             "link1_text_2": "",
             "link1_type_2": "",
             "ulsp_type": "Sito",
-            "Titolo": "Sito 1",
+            "Titolo": "Sito 8",
             "Altitudine": "",
             "Definizione": "",
             "Reperti ceramici": "",
