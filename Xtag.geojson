@@ -1,11 +1,404 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "Xtag",
-    "Descrizione": "Test dei tag",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/xtag_1048579"
+    "Nome": "xtag-new",
+    "Descrizione": "Test tag uMap caricato in uMap e scaricato come geojson per modificare le coordinate ",
+    "umapKey": ""
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "styleUrl": "#line-000000-1200",
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 1.2,
+        "descrizione": "",
+        "Sito": "",
+        "Provincia": "",
+        "Comune": "",
+        "Toponimo": "",
+        "Microtoponimo": "",
+        "Strade d'accesso": "",
+        "Altri elementi di localizzazione": "",
+        "Tipologia sito": "",
+        "Definizione sito": "",
+        "Descrizione": "",
+        "Cronologia iniziale": "",
+        "Cronologia finale": "",
+        "Reperti Ceramici": "",
+        "Reperti geologici": "",
+        "Reperti organici": "",
+        "Altri manufatti": "",
+        "Dimensioni": "",
+        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
+        "Accessibilità": "",
+        "Copertura rete mobile": "",
+        "Copertura GPS": "",
+        "Note": "",
+        "Altitudine m": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "Data": "",
+        "Bibliografia": "",
+        "name": "",
+        "cmt": "",
+        "desc": "",
+        "src": "",
+        "link1_href": "",
+        "link1_text": "",
+        "link1_type": "",
+        "link2_href": "",
+        "link2_text": "",
+        "link2_type": "",
+        "number": "",
+        "type": "",
+        "locus_activity": "",
+        "name_2": "",
+        "cmt_2": "",
+        "desc_2": "",
+        "src_2": "",
+        "link1_href_2": "",
+        "link1_text_2": "",
+        "link1_type_2": "",
+        "ulsp_type": "Percorso",
+        "Titolo": "Percorso 3",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Difficoltà": "",
+        "Lunghezza": "",
+        "Durata": "",
+        "Dislivello in salita": "",
+        "Dislivello in discesa": "",
+        "Segnaletica": "",
+        "Strumento": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.683381,
+            44.040013,
+            0
+          ],
+          [
+            10.683336,
+            44.039828,
+            0
+          ],
+          [
+            10.683341,
+            44.039522,
+            0
+          ],
+          [
+            10.683316,
+            44.039245,
+            0
+          ],
+          [
+            10.683281,
+            44.039102,
+            0
+          ],
+          [
+            10.683259,
+            44.038956,
+            0
+          ],
+          [
+            10.683264,
+            44.038841,
+            0
+          ],
+          [
+            10.683238,
+            44.03878,
+            0
+          ],
+          [
+            10.683206,
+            44.038669,
+            0
+          ]
+        ]
+      },
+      "id": "c4MzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "styleUrl": "#line-000000-1200",
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 1.2,
+        "descrizione": "",
+        "Sito": "",
+        "Provincia": "",
+        "Comune": "",
+        "Toponimo": "",
+        "Microtoponimo": "",
+        "Strade d'accesso": "",
+        "Altri elementi di localizzazione": "",
+        "Tipologia sito": "",
+        "Definizione sito": "",
+        "Descrizione": "",
+        "Cronologia iniziale": "",
+        "Cronologia finale": "",
+        "Reperti Ceramici": "",
+        "Reperti geologici": "",
+        "Reperti organici": "",
+        "Altri manufatti": "",
+        "Dimensioni": "",
+        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
+        "Accessibilità": "",
+        "Copertura rete mobile": "",
+        "Copertura GPS": "",
+        "Note": "",
+        "Altitudine m": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "Data": "",
+        "Bibliografia": "",
+        "name": "",
+        "cmt": "",
+        "desc": "",
+        "src": "",
+        "link1_href": "",
+        "link1_text": "",
+        "link1_type": "",
+        "link2_href": "",
+        "link2_text": "",
+        "link2_type": "",
+        "number": "",
+        "type": "",
+        "locus_activity": "",
+        "name_2": "2023-07-11T15:40:00",
+        "cmt_2": "",
+        "desc_2": "",
+        "src_2": "",
+        "link1_href_2": "",
+        "link1_text_2": "",
+        "link1_type_2": "",
+        "ulsp_type": "Percorso",
+        "Titolo": "Percorso 2",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Difficoltà": "",
+        "Lunghezza": "",
+        "Durata": "",
+        "Dislivello in salita": "",
+        "Dislivello in discesa": "",
+        "Segnaletica": "",
+        "Strumento": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.683657,
+            44.038095,
+            357.5
+          ],
+          [
+            10.683709,
+            44.038031,
+            355.75
+          ],
+          [
+            10.683726,
+            44.037989,
+            0
+          ],
+          [
+            10.683737,
+            44.037913,
+            0
+          ],
+          [
+            10.683759,
+            44.037826,
+            0
+          ],
+          [
+            10.683762,
+            44.037755,
+            0
+          ],
+          [
+            10.683775,
+            44.037662,
+            0
+          ],
+          [
+            10.683796,
+            44.037556,
+            0
+          ],
+          [
+            10.683796,
+            44.037471,
+            0
+          ],
+          [
+            10.683773,
+            44.0374,
+            0
+          ],
+          [
+            10.683761,
+            44.037243,
+            0
+          ],
+          [
+            10.683762,
+            44.037146,
+            0
+          ],
+          [
+            10.6838,
+            44.036978,
+            0
+          ],
+          [
+            10.683832,
+            44.036853,
+            0
+          ],
+          [
+            10.68384,
+            44.03674,
+            0
+          ],
+          [
+            10.683825,
+            44.036621,
+            0
+          ],
+          [
+            10.683841,
+            44.036476,
+            0
+          ],
+          [
+            10.683863,
+            44.036413,
+            0
+          ],
+          [
+            10.683957,
+            44.036296,
+            0
+          ],
+          [
+            10.684091,
+            44.036135,
+            0
+          ],
+          [
+            10.684193,
+            44.035987,
+            0
+          ],
+          [
+            10.684248,
+            44.035856,
+            0
+          ],
+          [
+            10.684243,
+            44.035769,
+            0
+          ],
+          [
+            10.684215,
+            44.035714,
+            0
+          ],
+          [
+            10.684185,
+            44.035608,
+            0
+          ],
+          [
+            10.684183,
+            44.035519,
+            0
+          ],
+          [
+            10.684143,
+            44.035454,
+            0
+          ],
+          [
+            10.684096,
+            44.035452,
+            0
+          ],
+          [
+            10.684061,
+            44.035483,
+            0
+          ],
+          [
+            10.684029,
+            44.035585,
+            0
+          ],
+          [
+            10.684009,
+            44.035717,
+            0
+          ],
+          [
+            10.684008,
+            44.035885,
+            0
+          ],
+          [
+            10.683973,
+            44.03602,
+            0
+          ],
+          [
+            10.683907,
+            44.036142,
+            0
+          ],
+          [
+            10.683803,
+            44.036299,
+            0
+          ],
+          [
+            10.683732,
+            44.036393,
+            0
+          ],
+          [
+            10.683598,
+            44.036495,
+            0
+          ],
+          [
+            10.6835,
+            44.03659,
+            0
+          ]
+        ]
+      },
+      "id": "czNzE"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -73,7 +466,10 @@
         "Dislivello in discesa": "",
         "Segnaletica": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
       },
       "geometry": {
         "type": "LineString",
@@ -840,12 +1236,23 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "",
-        "styleUrl": "#line-000000-1200",
-        "stroke-opacity": 1,
-        "stroke": "#000000",
-        "stroke-width": 1.2,
-        "descrizione": "",
+        "name": "Inizio di Escursione verso Cocciglia",
+        "description": "[object Object]",
+        "styleUrl": "#icon-1899-0288D1",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "descrizione": "[object Object]",
         "Sito": "",
         "Provincia": "",
         "Comune": "",
@@ -873,273 +1280,6 @@
         "Longitudine": "",
         "Data": "",
         "Bibliografia": "",
-        "name": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "2023-07-11T15:40:00",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
-        "ulsp_type": "Percorso",
-        "Titolo": "Percorso 2",
-        "Punto d'accesso": "",
-        "Foto accesso": "",
-        "Difficoltà": "",
-        "Lunghezza": "",
-        "Durata": "",
-        "Dislivello in salita": "",
-        "Dislivello in discesa": "",
-        "Segnaletica": "",
-        "Strumento": "",
-        "Ora": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.683657,
-            44.038095,
-            357.5
-          ],
-          [
-            10.683709,
-            44.038031,
-            355.75
-          ],
-          [
-            10.683726,
-            44.037989,
-            0
-          ],
-          [
-            10.683737,
-            44.037913,
-            0
-          ],
-          [
-            10.683759,
-            44.037826,
-            0
-          ],
-          [
-            10.683762,
-            44.037755,
-            0
-          ],
-          [
-            10.683775,
-            44.037662,
-            0
-          ],
-          [
-            10.683796,
-            44.037556,
-            0
-          ],
-          [
-            10.683796,
-            44.037471,
-            0
-          ],
-          [
-            10.683773,
-            44.0374,
-            0
-          ],
-          [
-            10.683761,
-            44.037243,
-            0
-          ],
-          [
-            10.683762,
-            44.037146,
-            0
-          ],
-          [
-            10.6838,
-            44.036978,
-            0
-          ],
-          [
-            10.683832,
-            44.036853,
-            0
-          ],
-          [
-            10.68384,
-            44.03674,
-            0
-          ],
-          [
-            10.683825,
-            44.036621,
-            0
-          ],
-          [
-            10.683841,
-            44.036476,
-            0
-          ],
-          [
-            10.683863,
-            44.036413,
-            0
-          ],
-          [
-            10.683957,
-            44.036296,
-            0
-          ],
-          [
-            10.684091,
-            44.036135,
-            0
-          ],
-          [
-            10.684193,
-            44.035987,
-            0
-          ],
-          [
-            10.684248,
-            44.035856,
-            0
-          ],
-          [
-            10.684243,
-            44.035769,
-            0
-          ],
-          [
-            10.684215,
-            44.035714,
-            0
-          ],
-          [
-            10.684185,
-            44.035608,
-            0
-          ],
-          [
-            10.684183,
-            44.035519,
-            0
-          ],
-          [
-            10.684143,
-            44.035454,
-            0
-          ],
-          [
-            10.684096,
-            44.035452,
-            0
-          ],
-          [
-            10.684061,
-            44.035483,
-            0
-          ],
-          [
-            10.684029,
-            44.035585,
-            0
-          ],
-          [
-            10.684009,
-            44.035717,
-            0
-          ],
-          [
-            10.684008,
-            44.035885,
-            0
-          ],
-          [
-            10.683973,
-            44.03602,
-            0
-          ],
-          [
-            10.683907,
-            44.036142,
-            0
-          ],
-          [
-            10.683803,
-            44.036299,
-            0
-          ],
-          [
-            10.683732,
-            44.036393,
-            0
-          ],
-          [
-            10.683598,
-            44.036495,
-            0
-          ],
-          [
-            10.6835,
-            44.03659,
-            0
-          ]
-        ]
-      },
-      "id": "czNzE"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "",
-        "styleUrl": "#line-000000-1200",
-        "stroke-opacity": 1,
-        "stroke": "#000000",
-        "stroke-width": 1.2,
-        "descrizione": "",
-        "Sito": "",
-        "Provincia": "",
-        "Comune": "",
-        "Toponimo": "",
-        "Microtoponimo": "",
-        "Strade d'accesso": "",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "",
-        "Definizione sito": "",
-        "Descrizione": "",
-        "Cronologia iniziale": "",
-        "Cronologia finale": "",
-        "Reperti Ceramici": "",
-        "Reperti geologici": "",
-        "Reperti organici": "",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-        "Accessibilità": "",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Note": "",
-        "Altitudine m": "",
-        "Latitudine": "",
-        "Longitudine": "",
-        "Data": "",
-        "Bibliografia": "",
-        "name": "",
         "cmt": "",
         "desc": "",
         "src": "",
@@ -1159,337 +1299,6 @@
         "link1_href_2": "",
         "link1_text_2": "",
         "link1_type_2": "",
-        "ulsp_type": "Percorso",
-        "Titolo": "Percorso 3",
-        "Punto d'accesso": "",
-        "Foto accesso": "",
-        "Difficoltà": "",
-        "Lunghezza": "",
-        "Durata": "",
-        "Dislivello in salita": "",
-        "Dislivello in discesa": "",
-        "Segnaletica": "",
-        "Strumento": "",
-        "Ora": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.683381,
-            44.040013,
-            0
-          ],
-          [
-            10.683336,
-            44.039828,
-            0
-          ],
-          [
-            10.683341,
-            44.039522,
-            0
-          ],
-          [
-            10.683316,
-            44.039245,
-            0
-          ],
-          [
-            10.683281,
-            44.039102,
-            0
-          ],
-          [
-            10.683259,
-            44.038956,
-            0
-          ],
-          [
-            10.683264,
-            44.038841,
-            0
-          ],
-          [
-            10.683238,
-            44.03878,
-            0
-          ],
-          [
-            10.683206,
-            44.038669,
-            0
-          ]
-        ]
-      },
-      "id": "c4MzU"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "8",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli, Sant'Andrea",
-        "Microtoponimo": "Metato",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "a nord-ovest del lago di Casoli",
-        "Tipologia sito": "insediamento produttivo",
-        "Definizione sito": "complesso architettonico composto da più corpi di fabbrica",
-        "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
-        "Cronologia iniziale": "Età contemporanea",
-        "Cronologia finale": "Età sub-attuale",
-        "Reperti Ceramici": "No",
-        "Reperti geologici": "No",
-        "Reperti organici": "No",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "recintato perché in proprietà privata, ma ben visibile dal sentiero",
-        "Accessibilità": "Non accessibile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
-        "Note": "",
-        "Altitudine m": "569",
-        "Latitudine": "44.03591",
-        "Longitudine": "10.67763",
-        "Data": "30/04/2023",
-        "Bibliografia": "",
-        "name": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
-        "ulsp_type": "Sito",
-        "Titolo": "Sito 8",
-        "Altitudine": "",
-        "Definizione": "",
-        "Reperti ceramici": "",
-        "Sicurezza": "",
-        "Foto": "",
-        "Link": "",
-        "Strumento": "",
-        "Ora": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677623,
-          44.035917,
-          0
-        ]
-      },
-      "id": "IyNzY"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "9",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli, Sant'Andrea",
-        "Microtoponimo": "Lago di Casoli",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "frequentazione antropica",
-        "Definizione sito": "area di dispersione di materiale",
-        "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
-        "Cronologia iniziale": "Età romana imperiale",
-        "Cronologia finale": "Età contemporanea",
-        "Reperti Ceramici": "Si",
-        "Reperti geologici": "No",
-        "Reperti organici": "No",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "buona fruibilità",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
-        "Note": "",
-        "Altitudine m": "550",
-        "Latitudine": "44.03468",
-        "Longitudine": "10.67766",
-        "Data": "30/04/2023",
-        "Bibliografia": "",
-        "name": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
-        "ulsp_type": "Sito",
-        "Titolo": "Sito 9",
-        "Altitudine": "",
-        "Definizione": "",
-        "Reperti ceramici": "",
-        "Sicurezza": "",
-        "Foto": "",
-        "Link": "",
-        "Strumento": "",
-        "Ora": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677648,
-          44.034686,
-          0
-        ]
-      },
-      "id": "U0MzU"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "10",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli, Sant'Andrea",
-        "Microtoponimo": "Chiesa di Sant'Andrea de Lacu e edificio residenziale (?)",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "al secondo metato che si trova sul sentiero, si segue la traccia che sale su un pianoro",
-        "Tipologia sito": "insediamento ecclesiastico",
-        "Definizione sito": "corpo di fabbrica",
-        "Descrizione": "corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale",
-        "Cronologia iniziale": "Basso medioevo",
-        "Cronologia finale": "Età contemporanea",
-        "Reperti Ceramici": "No",
-        "Reperti geologici": "No",
-        "Reperti organici": "No",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "non ottimale per grave fessurazione in facciata sull'ingresso, accesso interno da evitare, forte interesse storico",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
-        "Note": "Secondo le fonti scritte nell'area doveva essere presente già un villaggio altomedievale le cui tracce non sono visibili in superficie.",
-        "Altitudine m": "577",
-        "Latitudine": "44.03523",
-        "Longitudine": "10.67577",
-        "Data": "30/04/2023",
-        "Bibliografia": "Giambastiani 1996",
-        "name": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
-        "ulsp_type": "Sito",
-        "Titolo": "Sito 10",
-        "Altitudine": "",
-        "Definizione": "",
-        "Reperti ceramici": "",
-        "Sicurezza": "",
-        "Foto": "",
-        "Link": "",
-        "Strumento": "",
-        "Ora": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67577,
-          44.03523,
-          0
-        ]
-      },
-      "id": "Q1MjE"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "",
-        "Data": "",
         "ulsp_type": "POI",
         "Titolo": "Test 1",
         "Foto": "",
@@ -1499,9 +1308,13 @@
         "Ora": "",
         "Tag primario": "Parcheggio",
         "Altri tag": [
-          "Bar",
-          "Parco giochi"
-        ]
+          "Bar"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/parking-car.svg"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1589,14 +1402,18 @@
         "Tag primario": "Fermata Bus",
         "Altri tag": [
           "Segnalazione"
-        ]
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/bus-stop.svg"
+        }
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.669211,
-          44.038931,
-          435.66
+          10.670643,
+          44.037319
         ]
       },
       "id": "Q5NDk"
@@ -1684,17 +1501,291 @@
           "Albergo",
           "Bar",
           "Parcheggio"
-        ]
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/restaurant.svg"
+        }
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.669211,
-          44.038931,
-          435.66
+          10.667596,
+          44.038028
         ]
       },
       "id": "kxMzk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "styleUrl": "#icon-1899-0288D1",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "descrizione": "",
+        "Sito": "10",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Casoli, Sant'Andrea",
+        "Microtoponimo": "Chiesa di Sant'Andrea de Lacu e edificio residenziale (?)",
+        "Strade d'accesso": "sentiero CAI 388 da Casoli",
+        "Altri elementi di localizzazione": "al secondo metato che si trova sul sentiero, si segue la traccia che sale su un pianoro",
+        "Tipologia sito": "insediamento ecclesiastico",
+        "Definizione sito": "corpo di fabbrica",
+        "Descrizione": "corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale",
+        "Cronologia iniziale": "Basso medioevo",
+        "Cronologia finale": "Età contemporanea",
+        "Reperti Ceramici": "No",
+        "Reperti geologici": "No",
+        "Reperti organici": "No",
+        "Altri manufatti": "",
+        "Dimensioni": "",
+        "Sicurezza: descrizione delle condizioni di fruizione del sito": "non ottimale per grave fessurazione in facciata sull'ingresso, accesso interno da evitare, forte interesse storico",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Note": "Secondo le fonti scritte nell'area doveva essere presente già un villaggio altomedievale le cui tracce non sono visibili in superficie.",
+        "Altitudine m": "577",
+        "Latitudine": "44.03523",
+        "Longitudine": "10.67577",
+        "Data": "30/04/2023",
+        "Bibliografia": "Giambastiani 1996",
+        "name": "",
+        "cmt": "",
+        "desc": "",
+        "src": "",
+        "link1_href": "",
+        "link1_text": "",
+        "link1_type": "",
+        "link2_href": "",
+        "link2_text": "",
+        "link2_type": "",
+        "number": "",
+        "type": "",
+        "locus_activity": "",
+        "name_2": "",
+        "cmt_2": "",
+        "desc_2": "",
+        "src_2": "",
+        "link1_href_2": "",
+        "link1_text_2": "",
+        "link1_type_2": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Sito 10",
+        "Altitudine": "",
+        "Definizione": "",
+        "Reperti ceramici": "",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67577,
+          44.03523,
+          0
+        ]
+      },
+      "id": "Q1MjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "styleUrl": "#icon-1899-0288D1",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "descrizione": "",
+        "Sito": "9",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Casoli, Sant'Andrea",
+        "Microtoponimo": "Lago di Casoli",
+        "Strade d'accesso": "sentiero CAI 388 da Casoli",
+        "Altri elementi di localizzazione": "",
+        "Tipologia sito": "frequentazione antropica",
+        "Definizione sito": "area di dispersione di materiale",
+        "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
+        "Cronologia iniziale": "Età romana imperiale",
+        "Cronologia finale": "Età contemporanea",
+        "Reperti Ceramici": "Si",
+        "Reperti geologici": "No",
+        "Reperti organici": "No",
+        "Altri manufatti": "",
+        "Dimensioni": "",
+        "Sicurezza: descrizione delle condizioni di fruizione del sito": "buona fruibilità",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Note": "",
+        "Altitudine m": "550",
+        "Latitudine": "44.03468",
+        "Longitudine": "10.67766",
+        "Data": "30/04/2023",
+        "Bibliografia": "",
+        "name": "",
+        "cmt": "",
+        "desc": "",
+        "src": "",
+        "link1_href": "",
+        "link1_text": "",
+        "link1_type": "",
+        "link2_href": "",
+        "link2_text": "",
+        "link2_type": "",
+        "number": "",
+        "type": "",
+        "locus_activity": "",
+        "name_2": "",
+        "cmt_2": "",
+        "desc_2": "",
+        "src_2": "",
+        "link1_href_2": "",
+        "link1_text_2": "",
+        "link1_type_2": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Sito 9",
+        "Altitudine": "",
+        "Definizione": "",
+        "Reperti ceramici": "",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677648,
+          44.034686,
+          0
+        ]
+      },
+      "id": "U0MzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "styleUrl": "#icon-1899-0288D1",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "descrizione": "",
+        "Sito": "8",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Casoli, Sant'Andrea",
+        "Microtoponimo": "Metato",
+        "Strade d'accesso": "sentiero CAI 388 da Casoli",
+        "Altri elementi di localizzazione": "a nord-ovest del lago di Casoli",
+        "Tipologia sito": "insediamento produttivo",
+        "Definizione sito": "complesso architettonico composto da più corpi di fabbrica",
+        "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
+        "Cronologia iniziale": "Età contemporanea",
+        "Cronologia finale": "Età sub-attuale",
+        "Reperti Ceramici": "No",
+        "Reperti geologici": "No",
+        "Reperti organici": "No",
+        "Altri manufatti": "",
+        "Dimensioni": "",
+        "Sicurezza: descrizione delle condizioni di fruizione del sito": "recintato perché in proprietà privata, ma ben visibile dal sentiero",
+        "Accessibilità": "Non accessibile",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Note": "",
+        "Altitudine m": "569",
+        "Latitudine": "44.03591",
+        "Longitudine": "10.67763",
+        "Data": "30/04/2023",
+        "Bibliografia": "",
+        "name": "",
+        "cmt": "",
+        "desc": "",
+        "src": "",
+        "link1_href": "",
+        "link1_text": "",
+        "link1_type": "",
+        "link2_href": "",
+        "link2_text": "",
+        "link2_type": "",
+        "number": "",
+        "type": "",
+        "locus_activity": "",
+        "name_2": "",
+        "cmt_2": "",
+        "desc_2": "",
+        "src_2": "",
+        "link1_href_2": "",
+        "link1_text_2": "",
+        "link1_type_2": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Sito 8",
+        "Altitudine": "",
+        "Definizione": "",
+        "Reperti ceramici": "",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677623,
+          44.035917,
+          0
+        ]
+      },
+      "id": "IyNzY"
     }
   ]
 }
