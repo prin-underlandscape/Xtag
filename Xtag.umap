@@ -1539,7 +1539,9 @@
               "Attrazione"
             ],
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "iconUrl": "/uploads/pictogram/hotel.svg",
+              "iconClass": "Drop"
             }
           },
           "geometry": {
